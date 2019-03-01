@@ -1,0 +1,7 @@
+#
+# The Tor Project
+#
+# URL: https://metrics.torproject.org/userstats-bridge-country.csv?start=2017-06-01&end=2017-06-01&country=cn
+#
+date,country,users,frac
+2017-06-01,cn,1136,56

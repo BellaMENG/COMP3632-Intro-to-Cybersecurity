@@ -1,0 +1,7 @@
+#
+# The Tor Project
+#
+# URL: https://metrics.torproject.org/bandwidth.csv?start=2017-06-01&end=2017-06-01
+#
+date,advbw,bwhist
+2017-06-01,220.926621568,101.8415579

@@ -1,0 +1,7 @@
+#,,,,
+# The Tor Project,,,,
+#,,,,
+# URL: https://metrics.torproject.org/bandwidth-flags.csv?start=2017-06-01&end=2017-06-01,,,,
+#,,,,
+date,guard_advbw,guard_bwhist,exit_advbw,exit_bwhist
+6/1/2017,165.1028589,80.94218227,53.38536569,29.21532672

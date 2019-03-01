@@ -1,0 +1,10 @@
+#,,
+# The Tor Project,,
+#,,
+# URL: https://metrics.torproject.org/relayflags.csv?start=2016-12-31&end=2017-01-01&flag=Exit&flag=Guard,,
+#,,
+date,flag,relays
+12/31/2016,Exit,853
+12/31/2016,Guard,2442
+1/1/2017,Exit,866
+1/1/2017,Guard,2439
